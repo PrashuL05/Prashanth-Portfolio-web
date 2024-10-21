@@ -1,0 +1,11 @@
+*{
+    background-color:cadetblue;
+}
+.login-page{
+    background-color: beige;
+    border-radius: 10px;
+    border: 2px solid greenyellow;
+}
+p{
+    color: aqua;
+}
